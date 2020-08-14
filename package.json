@@ -1,6 +1,6 @@
 {
   "name": "cheerful-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Server and process monitoring plugin for hapijs",
   "main": "lib/index.js",
   "scripts": {
