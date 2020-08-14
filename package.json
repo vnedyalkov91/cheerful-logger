@@ -1,0 +1,33 @@
+{
+  "name": "cheerful-logger",
+  "version": "1.0.0",
+  "description": "Server and process monitoring plugin for hapijs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnedyalkov91/cheerful-logger.git"
+  },
+  "keywords": [
+    "process",
+    "monitor",
+    "log",
+    "report",
+    "javascript",
+    "hapi",
+    "plugin"
+  ],
+  "author": "Vasil Nedyalkov (vnedyalkov91)",
+  "email": "v91nedyalkov91@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vnedyalkov91/cheerful-logger/issues"
+  },
+  "homepage": "https://github.com/vnedyalkov91/cheerful-logger#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "moment": "^2.27.0"
+  }
+}
